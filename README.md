@@ -24,8 +24,8 @@ challenge is to build out this QR code component and get it looking as close to 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://onechoiz.github.io/QRcode/)
+- Solution URL: [ solution URL here] (https://www.frontendmentor.io/solutions/qr-code-component-TBysnq2t3L)
+- Live Site URL: [ live site URL here](https://onechoiz.github.io/QRcode/)
 
 
 
